@@ -15,7 +15,7 @@ cheroot==6.5.4
 cherrypy==17.4.1
 contextlib2==0.5.5
 contextvars==2.4 ; python_version < "3.7"
-cryptography==3.0
+cryptography==3.3.2
 distro==1.5.0
 docutils==0.16            # via sphinx
 idna==2.8
