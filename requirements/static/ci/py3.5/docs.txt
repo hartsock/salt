@@ -5,7 +5,7 @@
 #    pip-compile -o requirements/static/ci/py3.5/docs.txt -v requirements/static/pkg/py3.5/linux.txt requirements/static/ci/docs.in
 #
 alabaster==0.7.12         # via sphinx
-babel==2.9.0              # via sphinx
+babel==2.9.1              # via sphinx
 backports.functools-lru-cache==1.5
 backports.ssl-match-hostname==3.7.0.1 ; python_version < "3.7"
 certifi==2020.6.20
